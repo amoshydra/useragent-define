@@ -1,0 +1,25 @@
+{
+  "name": "useragent-define",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.cjs",
+  "sideEffects": true,
+  "files": [
+    "property"
+  ],
+  "keywords": [
+    "useragent",
+    "defineProperty",
+    "mobile",
+    "mock",
+    "fake"
+  ],
+  "author": "amoshydra (https://github.com/amoshydra)",
+  "license": "MIT",
+  "homepage": "https://github.com/amoshydra/useragent-define",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:amoshydra/useragent-define.git"
+  }
+}
